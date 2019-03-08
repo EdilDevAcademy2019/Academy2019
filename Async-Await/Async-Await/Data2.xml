@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+  <channel>
+    <title>Repubblica.it &gt; Arte</title>
+    <link>http://www.repubblica.it/speciali/arte</link>
+    <description><![CDATA[Repubblica.it: gli ultimi articoli della sezione Arte]]></description>
+    <language>it-IT</language>
+    <copyright>Copyright 2017 - Gruppo Editoriale l'Espresso</copyright>
+    <pubDate>Tue, 09 Aug 2016 16:17:53 +0200</pubDate>
+    <lastBuildDate>Tue, 09 Aug 2016 16:17:53 +0200</lastBuildDate>
+    <ttl>30</ttl>
+    <category domain="http://www.repubblica.it"><![CDATA[viaggi]]></category>
+    <category domain="http://www.repubblica.it"><![CDATA[cultura]]></category>
+    <category domain="http://www.repubblica.it"><![CDATA[speciali/arte/recensioni]]></category>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <managingEditor>repubblicawww@repubblica.it (per segnalazioni sui contenuti del servizio)</managingEditor>
+    <webMaster>problemi@repubblica.it (per segnalazione di malfunzionamenti del servizio)</webMaster>
+    <image>
+      <title>Repubblica.it &gt; Arte</title>
+      <url>http://www.repubblica.it/images/logo_repubblica.gif</url>
+      <link>http://www.repubblica.it/speciali/arte</link>
+      <width>134</width>
+      <height>19</height>
+    </image>
+    <item>
+      <title><![CDATA[Cultura a Ferragosto. Ecco i musei aperti]]></title>
+      <link><![CDATA[http://www.repubblica.it/cultura/2016/08/09/news/musei_aperti_ferragosto_lista-145667134/?rss]]></link>
+      <author><![CDATA[repubblicawww@repubblica.it (Redazione Repubblica.it)]]></author>
+      <category domain="http://www.repubblica.it"><![CDATA[cultura]]></category>
+      <pubDate>Thu, 11 Aug 2016 14:58:42 +0200</pubDate>
+      <enclosure url="http://www.repstatic.it/content/nazionale/img/2016/08/09/161723568-a58279c2-b4c7-4202-90ab-684e10013486.jpg" length="38680" type="image/jpeg"/>
+      <description><![CDATA[<p><a href="http://www.repubblica.it/cultura/2016/08/09/news/musei_aperti_ferragosto_lista-145667134/?rssimage"> <img src="http://www.repstatic.it/content/nazionale/img/2016/08/09/161723568-a58279c2-b4c7-4202-90ab-684e10013486.jpg" width="140" align="left" hspace="10"></a>I principali luoghi della Cultura statali saranno visitabili nel giorno festivo ante litteram, che pure quest'anno cade di lunedÃ¬, tradizionale giorno di...</p>]]></description>
+      <guid isPermaLink="true"><![CDATA[http://www.repubblica.it/cultura/2016/08/09/news/musei_aperti_ferragosto_lista-145667134/?rss]]></guid>
+    </item>
+    <item>
+      <title><![CDATA[Monaci, spiriti e guerrieri. Il Giappone buddista in mostra]]></title>
+      <link><![CDATA[http://www.repubblica.it/speciali/arte/recensioni/2016/07/29/news/scultura_buddista_giapponese_mostra_scuderie_quirinale-145014123/?rss]]></link>
+      <author><![CDATA[repubblicawww@repubblica.it (Redazione Repubblica.it)]]></author>
+      <category domain="http://www.repubblica.it"><![CDATA[speciali/arte/recensioni]]></category>
+      <pubDate>Fri, 29 Jul 2016 11:09:22 +0200</pubDate>
+      <enclosure url="http://www.repstatic.it/content/nazionale/img/2016/08/09/161522162-cdb6deb8-232b-4d12-ba66-d4f5fa1f9e6d.jpg" length="4087" type="image/jpeg"/>
+      <description><![CDATA[<p><a href="http://www.repubblica.it/speciali/arte/recensioni/2016/07/29/news/scultura_buddista_giapponese_mostra_scuderie_quirinale-145014123/?rssimage"> <img src="http://www.repstatic.it/content/nazionale/img/2016/08/09/161522162-cdb6deb8-232b-4d12-ba66-d4f5fa1f9e6d.jpg" width="140" align="left" hspace="10"></a>Le statue come perfezione divina. Negli spazi espositivi delle Scuderie del Quirinale, 21 sculure, dallâ€™VII al XIV secolo, che arrivano da templi e santuari</p>]]></description>
+      <guid isPermaLink="true"><![CDATA[http://www.repubblica.it/speciali/arte/recensioni/2016/07/29/news/scultura_buddista_giapponese_mostra_scuderie_quirinale-145014123/?rss]]></guid>
+    </item>
+    <item>
+      <title><![CDATA[Basilea. Dalla Beyeler alla Germania, passeggiata nell'arte]]></title>
+      <link><![CDATA[http://www.repubblica.it/viaggi/2016/07/25/news/basilea_dalla_beyeler_alla_germania_passeggiata_nell_arte-144771815/?rss]]></link>
+      <author><![CDATA[repubblicawww@repubblica.it (Redazione Repubblica.it)]]></author>
+      <category domain="http://www.repubblica.it"><![CDATA[viaggi]]></category>
+      <pubDate>Mon, 25 Jul 2016 12:56:25 +0200</pubDate>
+      <enclosure url="http://www.repstatic.it/content/nazionale/img/2016/07/29/111007502-6c51b5b7-5c37-4306-912d-42c9f274a46b.jpg" length="6377" type="image/jpeg"/>
+      <description><![CDATA[<p><a href="http://www.repubblica.it/viaggi/2016/07/25/news/basilea_dalla_beyeler_alla_germania_passeggiata_nell_arte-144771815/?rssimage"> <img src="http://www.repstatic.it/content/nazionale/img/2016/07/29/111007502-6c51b5b7-5c37-4306-912d-42c9f274a46b.jpg" width="140" align="left" hspace="10"></a>Lâ€™artista tedesco Tobias Rehberger ha creato il â€œRehberger-Wegâ€, un sentiero che attraversa il confine della cittÃ  elvetica, letteralmente appoggiata a Nord...</p>]]></description>
+      <guid isPermaLink="true"><![CDATA[http://www.repubblica.it/viaggi/2016/07/25/news/basilea_dalla_beyeler_alla_germania_passeggiata_nell_arte-144771815/?rss]]></guid>
+    </item>
+    <item>
+      <title><![CDATA[Roma e il Vaticano, dalla Spina ai giorni nostri]]></title>
+      <link><![CDATA[http://www.repubblica.it/speciali/arte/recensioni/2016/07/22/news/roma_e_il_vaticano_dalla_spina_ai_giorni_nostri-144632470/?rss]]></link>
+      <author><![CDATA[repubblicawww@repubblica.it (Redazione Repubblica.it)]]></author>
+      <category domain="http://www.repubblica.it"><![CDATA[speciali/arte/recensioni]]></category>
+      <pubDate>Fri, 22 Jul 2016 14:36:28 +0200</pubDate>
+      <enclosure url="http://www.repstatic.it/content/nazionale/img/2016/07/25/113922483-05fbbfdf-6c08-436c-97be-ed804038f502.jpg" length="4486" type="image/jpeg"/>
+      <description><![CDATA[<p><a href="http://www.repubblica.it/speciali/arte/recensioni/2016/07/22/news/roma_e_il_vaticano_dalla_spina_ai_giorni_nostri-144632470/?rssimage"> <img src="http://www.repstatic.it/content/nazionale/img/2016/07/25/113922483-05fbbfdf-6c08-436c-97be-ed804038f502.jpg" width="140" align="left" hspace="10"></a>Ai Musei Capitolini la mostra â€œLa spina. Dallâ€™agro Vaticano a via della Conciliazioneâ€ racconta i cambiamenti del Borgo collocato ai piedi di San Pietro. Tra...</p>]]></description>
+      <guid isPermaLink="true"><![CDATA[http://www.repubblica.it/speciali/arte/recensioni/2016/07/22/news/roma_e_il_vaticano_dalla_spina_ai_giorni_nostri-144632470/?rss]]></guid>
+    </item>
+    <item>
+      <title><![CDATA[Tradizione e grandi firme: a Ortisei la Biennale del Legno]]></title>
+      <link><![CDATA[http://www.repubblica.it/speciali/arte/recensioni/2016/07/20/news/gardena_biennale_arte_legno-144511668/?rss]]></link>
+      <author><![CDATA[repubblicawww@repubblica.it (Redazione Repubblica.it)]]></author>
+      <category domain="http://www.repubblica.it"><![CDATA[speciali/arte/recensioni]]></category>
+      <pubDate>Wed, 20 Jul 2016 17:15:58 +0200</pubDate>
+      <enclosure url="http://www.repstatic.it/content/nazionale/img/2016/07/22/142808786-8e93ae94-925c-4a5f-8d2d-a97b667e6f0f.jpg" length="5216" type="image/jpeg"/>
+      <description><![CDATA[<p><a href="http://www.repubblica.it/speciali/arte/recensioni/2016/07/20/news/gardena_biennale_arte_legno-144511668/?rssimage"> <img src="http://www.repstatic.it/content/nazionale/img/2016/07/22/142808786-8e93ae94-925c-4a5f-8d2d-a97b667e6f0f.jpg" width="140" align="left" hspace="10"></a>Nella splendida cittadina dolomitica, al via la quinta edizione della Biennale GherdÃ«ina: si intitola â€œDa qui allâ€™eternitÃ â€ ed unisce ad Ortisei, per tutta...</p>]]></description>
+      <guid isPermaLink="true"><![CDATA[http://www.repubblica.it/speciali/arte/recensioni/2016/07/20/news/gardena_biennale_arte_legno-144511668/?rss]]></guid>
+    </item>
+    <item>
+      <title><![CDATA[Napoli, l'estate della Contemporanea]]></title>
+      <link><![CDATA[http://www.repubblica.it/speciali/arte/recensioni/2016/07/15/news/napoli_eventi_contemporanea-144148742/?rss]]></link>
+      <author><![CDATA[repubblicawww@repubblica.it (Redazione Repubblica.it)]]></author>
+      <category domain="http://www.repubblica.it"><![CDATA[speciali/arte/recensioni]]></category>
+      <pubDate>Fri, 15 Jul 2016 14:04:41 +0200</pubDate>
+      <enclosure url="http://www.repstatic.it/content/nazionale/img/2016/07/20/172802156-f7d0b201-4a7a-46ec-b743-c997872c4c08.jpg" length="4846" type="image/jpeg"/>
+      <description><![CDATA[<p><a href="http://www.repubblica.it/speciali/arte/recensioni/2016/07/15/news/napoli_eventi_contemporanea-144148742/?rssimage"> <img src="http://www.repstatic.it/content/nazionale/img/2016/07/20/172802156-f7d0b201-4a7a-46ec-b743-c997872c4c08.jpg" width="140" align="left" hspace="10"></a>Al museo di Capodimonte riapre la sezione dedicata allâ€™arte dei nostri tempi. L'evento Ã¨ in linea anche con la programmazione del museo archeologico della...</p>]]></description>
+      <guid isPermaLink="true"><![CDATA[http://www.repubblica.it/speciali/arte/recensioni/2016/07/15/news/napoli_eventi_contemporanea-144148742/?rss]]></guid>
+    </item>
+    <item>
+      <title><![CDATA[Milano: l'estate Ã¨ con Theaster Gates e NÃ¡stio Mosquito]]></title>
+      <link><![CDATA[http://www.repubblica.it/speciali/arte/recensioni/2016/07/11/news/milano_fondazione_prada_l_estate_e_con_theaster_gates_e_na_stio_mosquito-143858240/?rss]]></link>
+      <author><![CDATA[repubblicawww@repubblica.it (Redazione Repubblica.it)]]></author>
+      <category domain="http://www.repubblica.it"><![CDATA[speciali/arte/recensioni]]></category>
+      <pubDate>Tue, 12 Jul 2016 17:32:35 +0200</pubDate>
+      <enclosure url="http://www.repstatic.it/content/nazionale/img/2016/07/15/135741406-364db7e0-bdab-4c2a-a034-0ad5d9cf589a.jpg" length="6269" type="image/jpeg"/>
+      <description><![CDATA[<p><a href="http://www.repubblica.it/speciali/arte/recensioni/2016/07/11/news/milano_fondazione_prada_l_estate_e_con_theaster_gates_e_na_stio_mosquito-143858240/?rssimage"> <img src="http://www.repstatic.it/content/nazionale/img/2016/07/15/135741406-364db7e0-bdab-4c2a-a034-0ad5d9cf589a.jpg" width="140" align="left" hspace="10"></a>Alla Fondazione Prada i progetti, autonomi, realizzati da due big dell'arte contemporanea.Â  Installazioni, interventi site-specific, proiezioni, eventi...</p>]]></description>
+      <guid isPermaLink="true"><![CDATA[http://www.repubblica.it/speciali/arte/recensioni/2016/07/11/news/milano_fondazione_prada_l_estate_e_con_theaster_gates_e_na_stio_mosquito-143858240/?rss]]></guid>
+    </item>
+    <item>
+      <title><![CDATA[Paesaggi e Passaggi. Ad Anacapri Ã¨ di scena la fotografia d'autore]]></title>
+      <link><![CDATA[http://www.repubblica.it/speciali/arte/recensioni/2016/08/04/news/anacapri_ghirri_paesaggio_estate_cultura_mostre-145363637/?rss]]></link>
+      <author><![CDATA[repubblicawww@repubblica.it (Redazione Repubblica.it)]]></author>
+      <category domain="http://www.repubblica.it"><![CDATA[speciali/arte/recensioni]]></category>
+      <pubDate>Tue, 09 Aug 2016 14:55:11 +0200</pubDate>
+      <enclosure url="http://www.repstatic.it/content/nazionale/img/2016/08/04/153204407-2ad3adbb-6489-4f7b-b632-47e21830fea4.jpg" length="5667" type="image/jpeg"/>
+      <description><![CDATA[<p><a href="http://www.repubblica.it/speciali/arte/recensioni/2016/08/04/news/anacapri_ghirri_paesaggio_estate_cultura_mostre-145363637/?rssimage"> <img src="http://www.repstatic.it/content/nazionale/img/2016/08/04/153204407-2ad3adbb-6489-4f7b-b632-47e21830fea4.jpg" width="140" align="left" hspace="10"></a>Per tutta l'estate, nella parte occidentale dell'isola campana, si puÃ² visitare il primo festival dedicato alla riproduzione artistica dell'ambiente esterno:...</p>]]></description>
+      <guid isPermaLink="true"><![CDATA[http://www.repubblica.it/speciali/arte/recensioni/2016/08/04/news/anacapri_ghirri_paesaggio_estate_cultura_mostre-145363637/?rss]]></guid>
+    </item>
+    <item>
+      <title><![CDATA[Dal Piemonte alla Sicilia, case museo italiane in mostra]]></title>
+      <link><![CDATA[http://www.repubblica.it/speciali/arte/recensioni/2016/07/28/news/dal_piemonte_alla_sicilia_case_museo_italiane_in_mostra-144969537/?rss]]></link>
+      <author><![CDATA[repubblicawww@repubblica.it (Redazione Repubblica.it)]]></author>
+      <category domain="http://www.repubblica.it"><![CDATA[speciali/arte/recensioni]]></category>
+      <pubDate>Thu, 28 Jul 2016 14:58:37 +0200</pubDate>
+      <enclosure url="http://www.repstatic.it/content/nazionale/img/2016/07/28/150003227-fb652c9d-25f3-4370-9404-2f54b8ad2dfc.jpg" length="8674" type="image/jpeg"/>
+      <description><![CDATA[<p><a href="http://www.repubblica.it/speciali/arte/recensioni/2016/07/28/news/dal_piemonte_alla_sicilia_case_museo_italiane_in_mostra-144969537/?rssimage"> <img src="http://www.repstatic.it/content/nazionale/img/2016/07/28/150003227-fb652c9d-25f3-4370-9404-2f54b8ad2dfc.jpg" width="140" align="left" hspace="10"></a>Case, ville, palazzi testimoni dell'arte. Una mostra in corso nelle stanze della Fondazione Adolfo Pini, a Milano, racconta in dettaglio 20 storici edifici:...</p>]]></description>
+      <guid isPermaLink="true"><![CDATA[http://www.repubblica.it/speciali/arte/recensioni/2016/07/28/news/dal_piemonte_alla_sicilia_case_museo_italiane_in_mostra-144969537/?rss]]></guid>
+    </item>
+  </channel>
+</rss>

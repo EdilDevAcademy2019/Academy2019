@@ -1,0 +1,11 @@
+c:\users\devs6_accademy\source\repos\NetCoreProject\NetCoreProject\bin\Debug\netcoreapp2.0\NetCoreProject.deps.json
+c:\users\devs6_accademy\source\repos\NetCoreProject\NetCoreProject\bin\Debug\netcoreapp2.0\NetCoreProject.runtimeconfig.json
+c:\users\devs6_accademy\source\repos\NetCoreProject\NetCoreProject\bin\Debug\netcoreapp2.0\NetCoreProject.runtimeconfig.dev.json
+c:\users\devs6_accademy\source\repos\NetCoreProject\NetCoreProject\bin\Debug\netcoreapp2.0\NetCoreProject.dll
+c:\users\devs6_accademy\source\repos\NetCoreProject\NetCoreProject\bin\Debug\netcoreapp2.0\NetCoreProject.pdb
+c:\users\devs6_accademy\source\repos\NetCoreProject\NetCoreProject\obj\Debug\netcoreapp2.0\NetCoreProject.csprojAssemblyReference.cache
+c:\users\devs6_accademy\source\repos\NetCoreProject\NetCoreProject\obj\Debug\netcoreapp2.0\NetCoreProject.csproj.CoreCompileInputs.cache
+c:\users\devs6_accademy\source\repos\NetCoreProject\NetCoreProject\obj\Debug\netcoreapp2.0\NetCoreProject.AssemblyInfoInputs.cache
+c:\users\devs6_accademy\source\repos\NetCoreProject\NetCoreProject\obj\Debug\netcoreapp2.0\NetCoreProject.AssemblyInfo.cs
+c:\users\devs6_accademy\source\repos\NetCoreProject\NetCoreProject\obj\Debug\netcoreapp2.0\NetCoreProject.dll
+c:\users\devs6_accademy\source\repos\NetCoreProject\NetCoreProject\obj\Debug\netcoreapp2.0\NetCoreProject.pdb

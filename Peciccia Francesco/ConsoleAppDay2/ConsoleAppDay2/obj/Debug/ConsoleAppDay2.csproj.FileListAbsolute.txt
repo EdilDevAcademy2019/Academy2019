@@ -1,0 +1,7 @@
+C:\Users\DEVS7_ACCADEMY\source\repos\ConsoleAppDay2\ConsoleAppDay2\bin\Debug\ConsoleAppDay2.exe.config
+C:\Users\DEVS7_ACCADEMY\source\repos\ConsoleAppDay2\ConsoleAppDay2\bin\Debug\ConsoleAppDay2.exe
+C:\Users\DEVS7_ACCADEMY\source\repos\ConsoleAppDay2\ConsoleAppDay2\bin\Debug\ConsoleAppDay2.pdb
+C:\Users\DEVS7_ACCADEMY\source\repos\ConsoleAppDay2\ConsoleAppDay2\obj\Debug\ConsoleAppDay2.csprojAssemblyReference.cache
+C:\Users\DEVS7_ACCADEMY\source\repos\ConsoleAppDay2\ConsoleAppDay2\obj\Debug\ConsoleAppDay2.csproj.CoreCompileInputs.cache
+C:\Users\DEVS7_ACCADEMY\source\repos\ConsoleAppDay2\ConsoleAppDay2\obj\Debug\ConsoleAppDay2.exe
+C:\Users\DEVS7_ACCADEMY\source\repos\ConsoleAppDay2\ConsoleAppDay2\obj\Debug\ConsoleAppDay2.pdb

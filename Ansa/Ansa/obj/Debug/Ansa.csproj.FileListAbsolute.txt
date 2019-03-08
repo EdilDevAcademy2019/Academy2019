@@ -1,0 +1,8 @@
+c:\users\devs5_accademy\source\repos\Ansa\Ansa\obj\Debug\Ansa.csprojAssemblyReference.cache
+c:\users\devs5_accademy\source\repos\Ansa\Ansa\obj\Debug\Ansa.csproj.CoreCompileInputs.cache
+c:\users\devs5_accademy\source\repos\Ansa\Ansa\bin\Debug\Ansa.exe.config
+c:\users\devs5_accademy\source\repos\Ansa\Ansa\bin\Debug\Ansa.exe
+c:\users\devs5_accademy\source\repos\Ansa\Ansa\bin\Debug\Ansa.pdb
+c:\users\devs5_accademy\source\repos\Ansa\Ansa\obj\Debug\Ansa.exe
+c:\users\devs5_accademy\source\repos\Ansa\Ansa\obj\Debug\Ansa.pdb
+c:\users\devs5_accademy\source\repos\Ansa\Ansa\bin\Debug\Salva.xml

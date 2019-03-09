@@ -1,0 +1,7 @@
+C:\Users\DEVS_accademy\source\repos\Async-Await\Async-Await\bin\Debug\Async-Await.exe.config
+C:\Users\DEVS_accademy\source\repos\Async-Await\Async-Await\bin\Debug\Async-Await.exe
+C:\Users\DEVS_accademy\source\repos\Async-Await\Async-Await\bin\Debug\Async-Await.pdb
+C:\Users\DEVS_accademy\source\repos\Async-Await\Async-Await\obj\Debug\Async-Await.csprojAssemblyReference.cache
+C:\Users\DEVS_accademy\source\repos\Async-Await\Async-Await\obj\Debug\Async-Await.csproj.CoreCompileInputs.cache
+C:\Users\DEVS_accademy\source\repos\Async-Await\Async-Await\obj\Debug\Async-Await.exe
+C:\Users\DEVS_accademy\source\repos\Async-Await\Async-Await\obj\Debug\Async-Await.pdb

@@ -1,0 +1,7 @@
+C:\Users\DEVS_accademy\source\repos\ListOfProducts\ListOfProducts\bin\Debug\ListOfProducts.exe.config
+C:\Users\DEVS_accademy\source\repos\ListOfProducts\ListOfProducts\bin\Debug\ListOfProducts.exe
+C:\Users\DEVS_accademy\source\repos\ListOfProducts\ListOfProducts\bin\Debug\ListOfProducts.pdb
+C:\Users\DEVS_accademy\source\repos\ListOfProducts\ListOfProducts\obj\Debug\ListOfProducts.csprojAssemblyReference.cache
+C:\Users\DEVS_accademy\source\repos\ListOfProducts\ListOfProducts\obj\Debug\ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\DEVS_accademy\source\repos\ListOfProducts\ListOfProducts\obj\Debug\ListOfProducts.exe
+C:\Users\DEVS_accademy\source\repos\ListOfProducts\ListOfProducts\obj\Debug\ListOfProducts.pdb

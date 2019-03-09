@@ -1,0 +1,14 @@
+C:\Users\DEVS_accademy\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\DEVS_accademy\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\DEVS_accademy\source\repos\Login\Login\bin\Debug\Login.pdb
+C:\Users\DEVS_accademy\source\repos\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\DEVS_accademy\source\repos\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\DEVS_accademy\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\DEVS_accademy\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\Gianluca\Desktop\Porcelli Giovanni Luca\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Gianluca\Desktop\Porcelli Giovanni Luca\Login\Login\bin\Debug\Login.exe
+C:\Users\Gianluca\Desktop\Porcelli Giovanni Luca\Login\Login\bin\Debug\Login.pdb
+C:\Users\Gianluca\Desktop\Porcelli Giovanni Luca\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\Gianluca\Desktop\Porcelli Giovanni Luca\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Gianluca\Desktop\Porcelli Giovanni Luca\Login\Login\obj\Debug\Login.exe
+C:\Users\Gianluca\Desktop\Porcelli Giovanni Luca\Login\Login\obj\Debug\Login.pdb
